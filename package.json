@@ -1,0 +1,27 @@
+{
+  "name": "poc-ui-grid-dropdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "1.6.10",
+    "angular-sanitize": "1.6.10",
+    "angular-ui-grid": "4.9.0",
+    "bootstrap": "3.4.1",
+    "jquery": "2.2.4",
+    "ui-select": "0.19.8"
+  },
+  "devDependencies": {
+    "vite": "1.0.0-rc.4"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marciel-truesoft/poc-ui-grid-dropdown.git"
+  },
+  "author": "marciel-truesoft",
+  "license": "MIT"
+}
